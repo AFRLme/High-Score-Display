@@ -1,4 +1,4 @@
-High-Score-Display--VS for Visionaire Studio: Adventure Game Engine [Lua]
+High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
 
 == Instructions ==
 
