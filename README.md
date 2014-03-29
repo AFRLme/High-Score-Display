@@ -49,4 +49,4 @@ setScore(n, true) -- replace n with number you want to add to the current score.
 13. To subtract from the current score, create an execute a script action containing...
 ```
 setScore(n, false) -- replace n with number you want to subtract from the current score.
-```
+``` 
