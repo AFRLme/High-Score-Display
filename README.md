@@ -8,7 +8,7 @@ High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
 4. Create & add the score interface background image to the properties section of the interface.
 5. Set the absolute position of the interface; based on game default resolution.
 6a. You need to create 12 png images with transparent backgrounds; the width/height of each should be exactly the same.
-    b. 10 of the images should contain a single number; from *0 to 9*.<br/>
+    b. 10 of the images should contain a single number; from *0 to 9*.
     c. a single image should be left blank; this will be used to hide inactive digits.
     d. The last one should contain a **-**; if the score value is a negative value then this will be shown before the first number.
     e. Save each of the number images, same as the number you added to them, like so: **n_0**, **n_1**, **n_2**, etc...
