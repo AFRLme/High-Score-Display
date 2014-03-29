@@ -1,6 +1,7 @@
 High-Score-Display--VS for Visionaire Studio: Adventure Game Engine [Lua]
 
 == Instructions ==
+
 1. Add the main script to the Visionaire Studio Script Editor & set the script as a definition script.
 2. Create a new interface score_interface.
 3. Create 8 buttons & name them like so: **btn_inc**, **btn_d1**, **btn_d2**, **btn_d3**, **btn_d4**, **btn_d5**, **btn_d6**, **btn_d7**.
@@ -19,10 +20,10 @@ High-Score-Display--VS for Visionaire Studio: Adventure Game Engine [Lua]
 10. Inside of the properties tab for each button set default animation to the animation you added to the button.
 11. Add value "**v_score** to the value tab of the score_interface & set default value to **0**.
 12. To add to the current score, create an execute a script action containing... 
-'''
+```
 setScore(n, true) -- replace n with number you want to add to the current score.
-'''
+```
 13. To subtract from the current score, create an execute a script action containing...
-'''
+```
 setScore(n, false) -- replace n with number you want to subtract from the current score.
-'''
+```
