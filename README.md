@@ -1,4 +1,4 @@
-High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
+High Score Display for Visionaire Studio: Adventure Game Engine [Lua] (http://wiki.visionaire-tracker.net/wiki/High_Score_Display_(CMS) "vs wiki page")
 
 Allows you to display a high score via an interface. The score gets updated everytime the function *below* is executed...
 ```
