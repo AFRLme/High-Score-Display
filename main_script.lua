@@ -1,6 +1,3 @@
-== Main Script ==
-
-```
 --[[
 High Score (updated via function) [v2.1] (29/03/2014)
 Written by AFRLme [Lee Clarke]
@@ -36,4 +33,3 @@ if string.len( math.abs( score:getInt(VValueInt ) ) ) < 7  then -- check digit v
   end
  end
 end
-```
