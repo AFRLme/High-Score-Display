@@ -19,17 +19,17 @@ setScore(n, true/false)
 
 *6*. You need to create 12 png images with transparent backgrounds; the width/height of each should be exactly the same.
     
-b. 10 of the images should contain a single number; from *0 to 9*.
+&nbsp;b. 10 of the images should contain a single number; from *0 to 9*.
     
-c. a single image should be left blank; this will be used to hide inactive digits.
+&nbsp;c. a single image should be left blank; this will be used to hide inactive digits.
     
-d. The last one should contain a **-**; if the score value is a negative value then this will be shown before the first number.
+&nbsp;d. The last one should contain a **-**; if the score value is a negative value then this will be shown before the first number.
     
-e. Save each of the number images, same as the number you added to them, like so: **n_0**, **n_1**, **n_2**, etc...
+&nbsp;e. Save each of the number images, same as the number you added to them, like so: **n_0**, **n_1**, **n_2**, etc...
     
-f. Save the blank image as **n_10**; the reason you are saving them like this is so that you can import them as a set animation, as opposed to having to add each animation frame one at a time.
+&nbsp;f. Save the blank image as **n_10**; the reason you are saving them like this is so that you can import them as a set animation, as opposed to having to add each animation frame one at a time.
     
-g. Save the **-** image as whatever you like.
+&nbsp;g. Save the **-** image as whatever you like.
 
 *7*. Create an animation for each of the buttons & name them like so: **ani_d1**, **ani_d2**, **ani_d3**, **ani_d4**, **ani_d5**, **ani_d6**, **ani_d7**, **ani_inc**; the names should reflect the value after the *btn_ prefix*.
 
