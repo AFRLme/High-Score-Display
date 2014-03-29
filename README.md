@@ -1,5 +1,10 @@
 High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
 
+Allows you to display a high score via an interface. The score gets updated everytime the function *below* is executed...
+```
+setScore(, true/false)
+```
+
 == Instructions ==
 
 1. Add the main script to the Visionaire Studio Script Editor & set the script as a definition script.
@@ -12,7 +17,7 @@ High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
 
 5. Set the absolute position of the interface; based on game default resolution.
 
-6a. You need to create 12 png images with transparent backgrounds; the width/height of each should be exactly the same.
+6. You need to create 12 png images with transparent backgrounds; the width/height of each should be exactly the same.
     
     b. 10 of the images should contain a single number; from *0 to 9*.
     
