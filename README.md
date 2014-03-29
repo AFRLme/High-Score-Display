@@ -2,7 +2,7 @@ High Score Display for Visionaire Studio: Adventure Game Engine [Lua]
 
 Allows you to display a high score via an interface. The score gets updated everytime the function *below* is executed...
 ```
-setScore(, true/false)
+setScore(n, true/false)
 ```
 
 == Instructions ==
