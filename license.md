@@ -1,4 +1,4 @@
-**High Score Display** (updated *via* function) [v2.1] (*29/03/2014*)
+**High Score Display** (updated *via* function) [*v2.1*] (*29/03/2014*)
 
 Written by **AFRLme** [Lee Clarke]
 
