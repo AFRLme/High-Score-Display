@@ -12,6 +12,6 @@ This script is donation *optional*. In game credit is **non-negotiable**.
 
 You are free to: ¹ use it in your game(s). ² modify the script.
 
-Do not remove - or edit - this comment block.
+-- + --
 
 ©2014 Lee Clarke | Alternating Frequencies | Stiff Upper Lip
