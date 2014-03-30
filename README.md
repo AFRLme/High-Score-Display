@@ -1,6 +1,6 @@
 High Score Display for Visionaire Studio: Adventure Game Engine [Lua] - more info [here](http://wiki.visionaire-tracker.net/wiki/High_Score_Display_(CMS) "high score display wiki article")
 
-Allows you to display a high score via an interface. The score gets updated everytime the function *below* is executed...
+Allows you to display a high score of up to **7** digits via an interface. Both **positive** & **negative** scores values are *allowed*.  The score gets updated everytime the function *below* is executed...
 ```
 setScore(n, true/false)
 ```
